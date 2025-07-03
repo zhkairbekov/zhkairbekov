@@ -1,19 +1,3 @@
-<style>
-  p{
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-  }
-  .stats img{
-    width: 48%;
-    height: 250px;
-  }
-  @media (max-width: 768px){
-    .stats img{
-      width: 100%;
-    }
-  }
-</style>
 ![👋 Привет, я Kairbekoff!](https://cdn-edge.kwork.ru/files/cover/32/10844964-1720369659_x1.jpg)
 
 <!-- Счётчик просмотров профиля -->
@@ -49,6 +33,6 @@
 </p>
 
 <p class="stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhkairbekov&theme=react&show_icons=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhkairbekov&layout=compact&theme=react" />
+  <img width="48%" height="250" src="https://github-readme-stats.vercel.app/api?username=zhkairbekov&theme=react&show_icons=true&count_private=true" />
+  <img width="48%" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhkairbekov&layout=compact&theme=react" />
 </p>
