@@ -1,29 +1,46 @@
-![👋 Yo, it's   kairbekoff!](https://your-banner-link.com/banner.jpg)
+![👋 Привет, я Kairbekoff!]([https://your-image-url.com/header.jpg](https://cdn-edge.kwork.ru/files/cover/32/10844964-1720369659_x1.jpg))
 
-![Profile views](https://komarev.com/ghpvc/?username=kairbekoff&label=Profile%20views&color=0e75b6&style=flat)
+<!-- Счётчик просмотров профиля -->
+![Просмотры профиля](https://komarev.com/ghpvc/?username=zhkairbekov&label=Profile%20views&color=0e75b6&style=flat)
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Yo, it's   kairbekoff!
-      </h1>
-    </summary>
-  </ul>
-</div>
+<h1 align="center">👋 Привет! Я — Kairbekoff</h1>
 
-**<h3 align="left">Connect with me:</h3>**
+---
+
+### 📬 Связаться со мной:
 
 <p align="left">
-  <a href="https://github.com/kairbekoff" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="28">
-  </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28">
-  </a>
-  <a href="https://bitbucket.org/kairbekoff" target="_blank">
-    <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=flat-square&logo=bitbucket&logoColor=white" height="28">
-  </a>
+  <a href="https://github.com/zhkairbekov" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="28" /></a>
+  <a href="mailto:kairbekov.official@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Почта-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" /></a>
+  <a href="tg://resolve?domain=kairbekoff" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" height="28" /></a>
+  <a href="https://instagram.com/kairbekov.official" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="28" /></a>
+  <a href="https://vk.com/kairbekov.official" target="_blank"><img src="https://img.shields.io/badge/VK-4a76a8?style=flat-square&logo=vk&logoColor=white)" height="28" /></a>
+  <!-- Добавь сюда другие соцсети -->
 </p>
 
-**<**
+---
+
+### 🛠️ Навыки:
+
+<p align="left">
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <!-- Добавь иконки своих технологий -->
+</p>
+
+---
+
+### 📊 GitHub Статистика:
+
+<p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zhkairbekov&theme=react&show_icons=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhkairbekov&layout=compact&theme=react" />
+</p>
