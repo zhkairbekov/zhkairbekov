@@ -3,11 +3,9 @@
 <!-- Счётчик просмотров профиля -->
 ![Просмотры профиля](https://komarev.com/ghpvc/?username=zhkairbekov&label=Profile%20views&color=0e75b6&style=flat)
 
-<h1 align="center">👋 Привет! Я — Kairbekoff</h1>
+<h1 align="start">👋 Привет! Я — Kairbekoff</h1>
 
----
-
-### 📬 Связаться со мной:
+### Связаться со мной:
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap:10px;">
   <a href="https://github.com/zhkairbekov" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="28" /></a>
@@ -20,7 +18,7 @@
 
 ---
 
-### 🛠️ Навыки:
+### Навыки:
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap:10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50"/>
@@ -35,10 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50"/>
   <!-- Добавь иконки своих технологий -->
 </p>
-
----
-
-### 📊 GitHub Статистика:
 
 <p>
   <img width="48%" height="250px" src="https://github-readme-stats.vercel.app/api?username=zhkairbekov&theme=react&show_icons=true&count_private=true" />
