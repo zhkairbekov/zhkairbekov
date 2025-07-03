@@ -1,4 +1,4 @@
-![👋 Привет, я Kairbekoff!]([https://your-image-url.com/header.jpg](https://cdn-edge.kwork.ru/files/cover/32/10844964-1720369659_x1.jpg))
+![👋 Привет, я Kairbekoff!](https://cdn-edge.kwork.ru/files/cover/32/10844964-1720369659_x1.jpg)
 
 <!-- Счётчик просмотров профиля -->
 ![Просмотры профиля](https://komarev.com/ghpvc/?username=zhkairbekov&label=Profile%20views&color=0e75b6&style=flat)
