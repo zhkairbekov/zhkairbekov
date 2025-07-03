@@ -10,7 +10,7 @@
 <p align="left" style="display: flex; flex-wrap: wrap; gap:10px;">
   <a href="https://github.com/zhkairbekov" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="28" /></a>
   <a href="mailto:kairbekov.official@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Почта-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" /></a>
-  <a href="tg://resolve?domain=kairbekoff" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" height="28" /></a>
+  <a href="https://t.me/kairbekoff" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" height="28" /></a>
   <!-- Добавь сюда другие соцсети -->
 </p>
 
