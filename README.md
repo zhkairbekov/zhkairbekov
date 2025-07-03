@@ -35,6 +35,6 @@
 </p>
 
 <p>
-  <img width="48%" height="250px" src="https://github-readme-stats.vercel.app/api?username=zhkairbekov&theme=react&show_icons=true&count_private=true" />
-  <img width="48%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhkairbekov&layout=compact&theme=react" />
+  <img width="48%" height="100%" src="https://github-readme-stats.vercel.app/api?username=zhkairbekov&theme=react&show_icons=true&count_private=true" />
+  <img width="48%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhkairbekov&layout=compact&theme=react" />
 </p>
