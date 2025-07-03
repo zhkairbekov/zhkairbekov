@@ -11,8 +11,6 @@
   <a href="https://github.com/zhkairbekov" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="28" /></a>
   <a href="mailto:kairbekov.official@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Почта-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" /></a>
   <a href="tg://resolve?domain=kairbekoff" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" height="28" /></a>
-  <a href="https://instagram.com/kairbekov.official" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="28" /></a>
-  <a href="https://vk.com/kairbekov.official" target="_blank"><img src="https://img.shields.io/badge/VK-4a76a8?style=flat-square&logo=vk&logoColor=white)" height="28" /></a>
   <!-- Добавь сюда другие соцсети -->
 </p>
 
