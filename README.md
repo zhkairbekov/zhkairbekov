@@ -39,7 +39,8 @@
 ### 📚 Сейчас учу
 
 - Go и тестирование
-- Java Script и DOM
+- JavaScript и DOM
+- TypeScript и React
 
 ---
 <p align="left">
